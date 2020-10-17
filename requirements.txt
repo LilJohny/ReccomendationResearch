@@ -1,0 +1,54 @@
+appnope==0.1.0
+astroid @ file:///opt/concourse/worker/volumes/live/b22b518b-f584-4586-5ee9-55bfa4fca96e/volume/astroid_1592495912194/work
+backcall==0.2.0
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi @ file:///opt/concourse/worker/volumes/live/74b22aae-8eb9-44eb-6c00-a8a07af62b36/volume/cffi_1600699174113/work
+chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1602255311078/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1602614284246/work
+decorator==4.4.2
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+ipykernel @ file:///opt/concourse/worker/volumes/live/73e8766c-12c3-4f76-62a6-3dea9a7da5b7/volume/ipykernel_1596206701501/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///opt/concourse/worker/volumes/live/bb221eaa-cc1a-4ab2-40f7-74a2020a44b1/volume/ipython_1599056234390/work
+ipython-genutils==0.2.0
+isort @ file:///tmp/build/80754af9/isort_1602603989581/work
+jedi @ file:///opt/concourse/worker/volumes/live/152cd167-7b79-4fbd-5c97-d7b338805c2b/volume/jedi_1598371617305/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1593624380152/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core==4.6.3
+lazy-object-proxy==1.4.3
+lenskit==0.2.0
+lightfm @ file:///Users/runner/miniforge3/conda-bld/lightfm_1601177969619/work
+mccabe==0.6.1
+mock==4.0.2
+numexpr==2.7.1
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1597938419070/work
+pandas @ file:///opt/concourse/worker/volumes/live/59754b01-e55a-441c-59b5-4878e3ad9d22/volume/pandas_1601567303900/work
+parso==0.7.0
+pexpect==4.8.0
+pickleshare==0.7.5
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1598885458782/work
+ptyprocess==0.6.0
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+pylint @ file:///opt/concourse/worker/volumes/live/9eebf2dc-3c74-4778-701c-c55b13929def/volume/pylint_1598624018844/work
+pyOpenSSL==19.1.0
+PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1602326930468/work
+python-dateutil==2.8.1
+pytz==2020.1
+pyzmq==19.0.2
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
+scikit-learn==0.23.2
+scikit-surprise==1.1.1
+scipy @ file:///opt/concourse/worker/volumes/live/7114cc5a-074a-43ee-4c3e-e15a7587e2c8/volume/scipy_1597719809786/work
+six==1.15.0
+sklearn==0.0
+tables==3.6.1
+threadpoolctl==2.1.0
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+tornado==6.0.4
+traitlets @ file:///tmp/build/80754af9/traitlets_1600712679583/work
+typed-ast==1.4.1
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1595434816409/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+wrapt==1.11.2
